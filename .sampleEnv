@@ -1,4 +1,4 @@
-MONGO_URI = mongodb://127.0.0.1:27017
+MONGO_URI = mongodb+srv://ChitChat_App:Sam@250902@cluster0.ozdmfr5.mongodb.net/
 PORT = 3000
 JWT_SECRET = jhvjhvjhhvkkjbkbjyv
 
